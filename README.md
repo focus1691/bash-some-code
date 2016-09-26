@@ -2,7 +2,7 @@
 
 
 ### Introduction
-This is an action game intended to familiarise children with basic code syntax. All the runtime dlls are included in the folder for gameplay.exe to be run directly.
+Code Debugger is an action game intended to familiarise children with basic code syntax. All the runtime dlls are included in the folder for gameplay.exe to be run directly.
 
 
 ### Manual Installation
