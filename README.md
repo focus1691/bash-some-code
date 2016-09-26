@@ -11,6 +11,8 @@ To manually install the game, you need to download and install the [SDL 2.0 libr
 
 ### Instructions
 Computer viruses are gravitating around space, and they are attacking the computer. They all have numbers pinned to them, and one of them is the solution to the question on the top left on the screen. Your task is to touch the one that has the correct answer.
+
+
 1. The bottom right number denotes the current level.
 2. The number below it denotes the round number of the current level.
 3. Problems grow increasingly difficult as you reach the higher levels.
