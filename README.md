@@ -10,6 +10,7 @@ To manually install the game, you need to download and install the [SDL 2.0 libr
 
 
 ### Instructions
+⋅⋅* Unordered sub-list. 
 ..*Computer viruses are gravitating around space, and they are attacking the computer. They all have numbers pinned to them, and one of them is the solution to the question on the top left on the screen. Your task is to touch the one that has the correct answer.
 
 ### Game Controls
