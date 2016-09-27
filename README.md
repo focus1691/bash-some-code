@@ -18,6 +18,6 @@ Computer viruses are gravitating around space, and they are attacking the comput
 3. Problems grow increasingly difficult as you reach the higher levels.
 
 ### Game Controls
-1. Space to jump.
-2. Left to move left.
-2. Right to move right.
+1. **Space** to jump.
+2. **Left** to move left.
+2. **Right** to move right.
